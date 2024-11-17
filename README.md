@@ -38,6 +38,10 @@ This project helped in mastering:
 - **2024-11-13**: Mike H - Added new tasks
 - **2024-11-10**: Mike H - Removed outdated tasks
 
+# Resources
+
+Provide any useful resources to get readers up to speed with the project here.
+
 ## Contact Information
 
-Provide conatact information for anyone involved in the project.
+Provide contact information for anyone involved in the project.
