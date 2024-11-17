@@ -10,6 +10,14 @@ A short description of the project, including its purpose and main features.
 
 ---
 
+## Data
+
+Mention what data is being used for the project and where it is stored. Mention any data privacy concerns.
+
+## Timeline
+
+Outline an estimated timeline for the project.
+
 ## What did I learn?
 
 This project helped in mastering:
@@ -29,3 +37,7 @@ This project helped in mastering:
 
 - **2024-11-13**: Mike H - Added new tasks
 - **2024-11-10**: Mike H - Removed outdated tasks
+
+## Contact Information
+
+Provide conatact information for anyone involved in the project.
