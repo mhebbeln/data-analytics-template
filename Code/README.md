@@ -1,5 +1,7 @@
 # Code
 
+This folder contains all the code files for the project, including Jupyter notebooks for analysis and Python scripts for automation and processing.
+
 ## Notebooks
 
 Python Jupyter notebooks (.ipynb). Files should be prefixed with the order they should run.
