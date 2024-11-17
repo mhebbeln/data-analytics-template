@@ -1,6 +1,6 @@
 # Code
 
-## notebooks
+## Notebooks
 
 Python Jupyter notebooks (.ipynb). Files should be prefixed with the order they should run.
 
@@ -8,7 +8,7 @@ Python Jupyter notebooks (.ipynb). Files should be prefixed with the order they 
 - 01_file1.ipynb
 - 02_file1.ipynb
 
-## scripts
+## Scripts
 
 Python scripts (.py). Files should be prefixed with the order they should run.
 

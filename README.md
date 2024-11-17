@@ -3,6 +3,7 @@
 ## Details
 
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 url to running project
 
@@ -39,8 +40,8 @@ This project helped in mastering:
 
 ## Change Log
 
-- **2024-11-13**: Mike H - Added new tasks
-- **2024-11-10**: Mike H - Removed outdated tasks
+- **2024-11-13**: Mike H - Fixed a bug in data_visualization.py where axis labels were not displaying correctly
+- **2024-11-10**: Mike H - Fixed column renaming issue in 02_clean_data.ipynb that caused key errors.
 
 ## Resources
 
