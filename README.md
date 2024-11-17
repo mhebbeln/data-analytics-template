@@ -14,6 +14,10 @@ A short description of the project, including its purpose and main features.
 
 Mention what data is being used for the project and where it is stored. Mention any data privacy concerns.
 
+## Installation Instructions
+
+Follow these steps to set up the project on your local machine:
+
 ## Timeline
 
 Outline an estimated timeline for the project.
