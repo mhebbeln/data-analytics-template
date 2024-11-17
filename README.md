@@ -40,8 +40,8 @@ This project helped in mastering:
 
 ## Change Log
 
-- **2024-11-13**: Mike H - Fixed a bug in data_visualization.py where axis labels were not displaying correctly
-- **2024-11-10**: Mike H - Fixed column renaming issue in 02_clean_data.ipynb that caused key errors.
+- **2024-11-13**: Mike Hebbeln - Fixed a bug in data_visualization.py where axis labels were not displaying correctly
+- **2024-11-10**: Mike Hebbeln - Fixed column renaming issue in 02_clean_data.ipynb that caused key errors.
 
 ## Resources
 
