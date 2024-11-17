@@ -18,14 +18,14 @@ This project helped in mastering:
 - Working with raw, processed, and finalized datasets.
 - Integration of Python libraries (Pandas, NumPy) for cleaning and transformation.
 
-### To Do List
+## To Do List
 
-- [ ] Task A
-- [x] Task B
-- [ ] Task C
-- [x] Task D
+- [x] Task A - organize raw data files
+- [x] Task B - validate data integrity
+- [ ] Task C - create data visualizations
+- [ ] Task D - optimize code for performance
 
-### Change Log
+## Change Log
 
 - **2024-11-13**: Mike H - Added new tasks
 - **2024-11-10**: Mike H - Removed outdated tasks
