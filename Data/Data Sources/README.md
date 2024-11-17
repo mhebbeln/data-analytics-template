@@ -5,3 +5,4 @@ Contains all datasets used in the project, categorized based on their type and p
 ## Links to Sources
 
 https://www.kaggle.com/datasets/whisperingkahuna/footballers-with-50-international-goals-men
+https://www.kaggle.com/datasets/hugomathien/soccer
