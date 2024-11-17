@@ -15,9 +15,53 @@ A short description of the project, including its purpose and main features.
 
 Mention what data is being used for the project and where it is stored. Mention any data privacy concerns.
 
-## Installation Instructions
+## Installation from GitHub Instructions
 
-Follow these steps to set up the project on your local machine:
+Follow these steps to install and set up the project directly from the GitHub repository:
+
+1. **Clone the Repository**
+
+   - Open your terminal or command prompt.
+   - Navigate to the directory where you want to install the project.
+   - Run the following command to clone the GitHub repository:
+     ```bash
+     git clone https://github.com/KalyanMurapaka45/-------------------.git
+     ```
+
+2. **Create a Virtual Environment** _(Optional but recommended)_
+
+   - It's a good practice to create a virtual environment to manage project dependencies. Run the following command:
+     ```bash
+     conda create -p <Environment_Name> python==<python_version> -y
+     ```
+
+3. **Activate the Virtual Environment** _(Optional)_
+
+   - Activate the virtual environment based on your operating system:
+     ```bash
+     conda activate <Environment_Name>
+     ```
+
+4. **Install Dependencies**
+
+   - Navigate to the project directory:
+     ```bash
+     cd [project_directory]
+     ```
+   - Run the following command to install project dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+5. **Run the Project**
+
+   - Start the project by running the appropriate command:
+     ```bash
+     python app.py
+     ```
+
+6. **Access the Project**
+   - Open a web browser or the appropriate client to access the project.
 
 ## Timeline
 
