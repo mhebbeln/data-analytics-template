@@ -5,4 +5,5 @@ Contains supplementary materials that were helpful during the project, serving a
 # Links to Assets
 
 https://www.visier.com/blog/overcoming-the-challenges-of-getting-clean-data/
+
 https://realpython.com/beautiful-soup-web-scraper-python/
