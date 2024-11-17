@@ -15,7 +15,7 @@ A short description of the project, including its purpose and main features.
 
 Mention what data is being used for the project and where it is stored. Mention any data privacy concerns.
 
-## Installation from GitHub Instructions
+## Installation Instructions
 
 Follow these steps to install and set up the project directly from the GitHub repository:
 
