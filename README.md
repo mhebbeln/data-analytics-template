@@ -24,8 +24,6 @@ This project is organized into the following folders:
   - **Final**: Fully processed and cleaned data ready for analysis.
 - **Finished Product**: Contains the final outputs and deliverables, such as visualizations, reports, or summarized datasets.
 
-Each folder contains a `README.md` file with further details about its purpose and contents.
-
 ## Data
 
 Mention what data is being used for the project and where it is stored. Mention any data privacy concerns.
