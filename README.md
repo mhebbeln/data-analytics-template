@@ -11,6 +11,21 @@ A short description of the project, including its purpose and main features.
 
 ---
 
+This project is organized into the following folders:
+
+- **Assets**: Contains supplementary materials such as articles, tutorials, or references that support the project's development.
+- **Code**: Includes Jupyter notebooks and Python scripts used for data analysis and processing.
+  - **Notebooks**: Python Jupyter notebooks (.ipynb) used for analysis.
+  - **Scripts**: Python scripts (.py) for automation and processing.
+- **Data**: Organized into subfolders for streamlined data management:
+  - **Data Sources**: Raw datasets sourced for the project.
+  - **Raw**: Original, unprocessed data.
+  - **In Process**: Data currently being cleaned or transformed.
+  - **Final**: Fully processed and cleaned data ready for analysis.
+- **Finished Product**: Contains the final outputs and deliverables, such as visualizations, reports, or summarized datasets.
+
+Each folder contains a `README.md` file with further details about its purpose and contents.
+
 ## Data
 
 Mention what data is being used for the project and where it is stored. Mention any data privacy concerns.
