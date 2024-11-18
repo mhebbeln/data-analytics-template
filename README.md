@@ -18,7 +18,7 @@ This project is organized into the following folders:
   - **Notebooks**: Python Jupyter notebooks (.ipynb) used for analysis.
   - **Scripts**: Python scripts (.py) for automation and processing.
 - **Data**: Organized into subfolders for streamlined data management:
-  - **Data Sources**: Raw datasets sourced for the project.
+  - **Data Sources**: Datasets sourced for the project.
   - **Raw**: Original, unprocessed data.
   - **In Process**: Data currently being cleaned or transformed.
   - **Final**: Fully processed and cleaned data ready for analysis.
